@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Silpa Alekhya Malakala
 
 ## 🙋‍♀️ About Me
-I am a software developer with over 3 years of experience, driven by a deep passion for technology and innovation. My journey has led me to pursue a **Master's in Computer Science** at **Fitchburg State University** with a focus on **machine learning, system design, and cloud-native applications**. I enjoy solving complex backend problems, building scalable microservices, and working with real-time data pipelines. This passion for continuous learning and problem-solving fuels my ambition to make a meaningful impact in the tech industry.
+I am a software developer with over 3 years of experience, driven by a deep passion for technology and innovation. My journey has led me to pursue a **Master's in Computer Science** at **Fitchburg State University** with a focus on **advanced programming, algorithms, data science, and system design**. I enjoy solving complex backend problems, building scalable microservices, and working with real-time data pipelines. This passion for continuous learning and problem-solving fuels my ambition to make a meaningful impact in the tech industry.
 
 ## 💡 My Passion
 I thrive on exploring new technologies and leveraging them to create efficient, real-world solutions. My enthusiasm for software development goes beyond just work—it's something I genuinely enjoy. I believe in technology’s ability to transform lives, and I am committed to being a part of that transformation through clean code, smart architecture, and constant innovation.
