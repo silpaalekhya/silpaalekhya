@@ -22,41 +22,67 @@ I thrive on exploring new technologies and leveraging them to create efficient, 
 A production-grade healthcare management platform built with Spring Boot microservices. The application handles patient and billing workflows with secure communication, real-time event streaming, and cloud-ready deployment.
 
 **Key Features:**
-- Service-to-service communication via **gRPC** between Patient and Billing services
-- **Apache Kafka** for asynchronous patient event streaming and analytics processing
-- API Gateway with centralized routing and **JWT-based authentication**
-- Containerized microservices using **Docker** and orchestrated with **Kubernetes**
-- CI/CD pipeline integration with **Jenkins**
-- Infrastructure provisioning with **AWS CloudFormation** and **LocalStack**
-- Integration testing for Auth and Patient modules
+- Service-to-service communication via **gRPC** between Patient and Billing services  
+- **Apache Kafka** for asynchronous patient event streaming and analytics processing  
+- API Gateway with centralized routing and **JWT-based authentication**  
+- Containerized microservices using **Docker** and orchestrated with **Kubernetes**  
+- CI/CD pipeline integration with **Jenkins**  
+- Infrastructure provisioning with **AWS CloudFormation** and **LocalStack**  
+- Integration testing for Auth and Patient modules  
 
 > **Tech Stack:** Java, Spring Boot, gRPC, Kafka, Docker, Kubernetes, Jenkins, AWS, CloudFormation
 
 ---
 
-### 🍽 Smart Service Management Platforms – Restaurant & Hospital Systems
-Developed two full-stack web applications to streamline service workflows in healthcare and food service domains.
+### 🏥 Full Stack Hospital Management System
+A full-stack hospital service platform enabling role-based operations for doctors, patients, and admins. Built with Angular and Spring Boot, the app provides end-to-end functionality from appointments to prescription tracking.
 
-**Highlights:**
-- Real-time appointment booking and order placement modules
-- Role-based access control using Spring Security + JWT (admin, patient, doctor)
-- Responsive UI using Angular, Bootstrap, and TypeScript
-- Dockerized deployment for each service with future cloud compatibility
+**Key Features:**
+- Patient registration, doctor login, and admin management dashboards  
+- Appointment scheduling, medical records tracking, and discharge summaries  
+- JWT-based login authentication and REST API integration  
+- Modern responsive UI with Angular and Bootstrap  
 
-> **Tech Stack:** Java, Spring Boot, Angular, MySQL, Docker
+> **Tech Stack:** Angular, Spring Boot, MySQL, JWT, REST API, Docker
 
 ---
 
-### 🧬 Health & Protein App – Personalized Wellness Platform
-Built a health-focused platform offering real-time dietary suggestions based on scanned food labels.
+### 🍱 Food Delivery System – Full Stack Application
+A food ordering and delivery platform designed with modular architecture and secure authentication. Users can register, browse meals, place orders, and track delivery.
+
+**Key Features:**
+- Customer and Admin login with JWT-based role control  
+- Product management module for restaurant owners  
+- Order and payment tracking system  
+- Frontend validation and backend API integration  
+
+> **Tech Stack:** Angular, Spring Boot, MySQL, JWT, Docker
+
+---
+
+### 📚 E-Book Management System – Java Console App
+A command-line based eBook inventory and management system. Built using core Java concepts to perform CRUD operations on a list of books.
 
 **Core Features:**
-- OCR food scanner using **Tesseract.js**
-- Condition-based nutrition recommendations using Kafka-streamed inputs
-- Real-time alerts and emergency care modules
-- Secure authentication and containerized deployments on AWS
+- Add, view, search, update, and delete eBook records  
+- Menu-driven interface for user-friendly console experience  
+- In-memory storage using Java collections  
+- Ideal for practicing OOP and file-based I/O  
 
-> **Tech Stack:** Spring Boot, Angular, Kafka, Docker, JWT, AWS
+> **Tech Stack:** Java, OOP, Collections, File I/O
+
+---
+
+### 🎮 Wordle Gaming Project – Interactive Word Puzzle Game
+A Java-based console implementation of the Wordle game. Users have six chances to guess a 5-letter word with immediate feedback for each guess.
+
+**Core Features:**
+- Validates input against a dictionary of words  
+- Color-coded (text-based) output indicating correct or misplaced letters  
+- Tracks and displays number of attempts  
+- Clean, modular logic separated into services  
+
+> **Tech Stack:** Java, Console I/O, Collections
 
 ---
 
@@ -64,10 +90,10 @@ Built a health-focused platform offering real-time dietary suggestions based on 
 Analyzed financial transaction data to uncover spending patterns and potential fraud.
 
 **Scope of Work:**
-- Data analysis with **R, SQL, and Excel**
-- Built a baseline **fraud detection model**
-- Developed interactive dashboards in **Power BI**
-- Delivered results in Agile sprints with weekly stakeholder reviews
+- Data analysis with **R, SQL, and Excel**  
+- Built a baseline **fraud detection model**  
+- Developed interactive dashboards in **Power BI**  
+- Delivered results in Agile sprints with weekly stakeholder reviews  
 
 > **Tech Stack:** R, SQL, Excel, Power BI
 
@@ -77,17 +103,20 @@ Analyzed financial transaction data to uncover spending patterns and potential f
 Engineered an embedded system to automate exam hall and seat assignments using RFID technology.
 
 **Details:**
-- Programmed microcontroller using Embedded C and AVR
-- Interfaced with **MAX232 IC** and LCD for real-time seat display
-- Validated logic in Proteus and deployed successfully in real-world use
-- Improved exam logistics efficiency by 70%
+- Programmed microcontroller using Embedded C and AVR  
+- Interfaced with **MAX232 IC** and LCD for real-time seat display  
+- Validated logic in Proteus and deployed successfully in real-world use  
+- Improved exam logistics efficiency by 70%  
 
 > **Tech Stack:** Embedded C, AVR, Proteus, LCD, RFID
 
+---
+
 ## 🎯 Goals
-I’m currently seeking **2025 internships** and **full-time opportunities** in **Software Engineering, Backend Development,Backend Development, and Cloud**. I'm excited to contribute to cutting-edge teams that innovate, solve meaningful problems, and embrace modern engineering practices.
+I’m currently seeking **2025 internships** and **full-time opportunities** in **Software Engineering, Backend Development, and Cloud**. I'm excited to contribute to cutting-edge teams that innovate, solve meaningful problems, and embrace modern engineering practices.
 
 ## 📫 Connect with Me
 📧 silpa.alekhya.m@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/silpa-alekhya-malakala-9b162920b/)  
 💻 [GitHub](https://github.com/silpaalekhya)
+
