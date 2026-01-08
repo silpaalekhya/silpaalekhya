@@ -1,20 +1,55 @@
 # 👋 Hello! I'm Silpa Alekhya Malakala
 
 ## 🙋‍♀️ About Me
-I am a software developer with over 3 years of experience, driven by a deep passion for technology and innovation. My journey has led me to pursue a **Master's in Computer Science** at **Fitchburg State University** with a focus on **advanced programming, algorithms, data science, and system design**. I enjoy solving complex backend problems, building scalable microservices, and working with real-time data pipelines. This passion for continuous learning and problem-solving fuels my ambition to make a meaningful impact in the tech industry.
+I am a **Full Stack Software Engineer with 4+ years of experience** delivering enterprise-scale applications across **Banking, Insurance, Telecom, and Mobility domains**. I am currently pursuing a **Master’s degree in Computer Science** at **Fitchburg State University**, where my academic focus includes **advanced programming, algorithms, data science, and system design**.
+
+My professional experience spans building **secure, high-performance backend services**, **microservices architectures**, and **modern frontend applications** using Java, Spring Boot, Angular, React, and cloud-native technologies. I enjoy solving complex engineering problems, improving system reliability, and building scalable solutions used in real-world enterprise environments.
+
+---
+
+## 💼 Professional Experience
+I have worked as a **Full Stack / Backend Engineer** across multiple enterprise organizations, contributing to production systems used by millions of users.
+
+- Built and maintained **Java (8/11/17) and Spring Boot microservices** with REST APIs, JPA/Hibernate, and event-driven integrations using **Kafka and JMS**  
+- Developed **Angular and React-based UIs** with strong focus on performance, accessibility, and reusable component architecture  
+- Designed and integrated **API Gateway solutions (Apigee)** for secure service communication and enterprise integrations  
+- Implemented **CI/CD pipelines** using Jenkins, GitHub, Maven, and quality gates with SonarQube  
+- Containerized applications using **Docker** and deployed on **Kubernetes / OpenShift**  
+- Supported **L3 production issues**, performed root-cause analysis using Splunk, New Relic, and AppDynamics, and delivered permanent fixes  
+- Worked closely with **product owners, QA, DevOps, and business stakeholders** in Agile/Scrum environments  
+- Mentored junior developers, performed code reviews, and promoted clean code and best practices  
+
+---
 
 ## 💡 My Passion
-I thrive on exploring new technologies and leveraging them to create efficient, real-world solutions. My enthusiasm for software development goes beyond just work—it's something I genuinely enjoy. I believe in technology’s ability to transform lives, and I am committed to being a part of that transformation through clean code, smart architecture, and constant innovation.
+I am passionate about building **robust backend systems**, **scalable microservices**, and **real-time data pipelines**. I enjoy working on challenging problems involving system design, performance optimization, and distributed systems. Continuous learning, clean architecture, and writing maintainable code drive my growth as an engineer.
+
+---
 
 ## 🔧 Technical Skills
 
-**Languages & Programming:** Java, C, JavaScript, TypeScript, SQL  
-**Frontend Technologies:** Angular, HTML, CSS, Bootstrap, JSP  
-**Backend & Frameworks:** Spring Boot, Spring MVC, Spring Security, Hibernate, JPA  
-**APIs & Databases:** REST APIs, MySQL, PostgreSQL, Oracle  
-**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Jenkins, Kafka  
-**Testing & QA:** JUnit, Mockito, Jest, Mocha  
-**Methodologies:** Agile, Scrum, TDD, SDLC
+**Languages & Programming:**  
+Java (8/11/17), C, JavaScript, TypeScript, SQL  
+
+**Frontend Technologies:**  
+Angular, React, HTML5, CSS3, Bootstrap, JSP  
+
+**Backend & Frameworks:**  
+Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, Spring Data JPA  
+
+**APIs & Databases:**  
+REST APIs, OpenAPI, JSON, XML, MySQL, PostgreSQL, Oracle, MongoDB  
+
+**Cloud & DevOps:**  
+AWS, Google Cloud Platform (GCP), Azure, Docker, Kubernetes, OpenShift, Jenkins, Kafka, Terraform  
+
+**Testing & QA:**  
+JUnit, Mockito, Jest, Mocha, Postman  
+
+**Methodologies:**  
+Agile, Scrum, TDD, SDLC  
+
+---
 
 ## 🧪 Projects
 
@@ -35,7 +70,7 @@ A production-grade healthcare management platform built with Spring Boot microse
 ---
 
 ### 🏥 Full Stack Hospital Management System
-A full-stack hospital service platform enabling role-based operations for doctors, patients, and admins. Built with Angular and Spring Boot, the app provides end-to-end functionality from appointments to prescription tracking.
+A full-stack hospital service platform enabling role-based operations for doctors, patients, and admins.
 
 **Key Features:**
 - Patient registration, doctor login, and admin management dashboards  
@@ -48,7 +83,7 @@ A full-stack hospital service platform enabling role-based operations for doctor
 ---
 
 ### 🍱 Food Delivery System – Full Stack Application
-A food ordering and delivery platform designed with modular architecture and secure authentication. Users can register, browse meals, place orders, and track delivery.
+A food ordering and delivery platform designed with modular architecture and secure authentication.
 
 **Key Features:**
 - Customer and Admin login with JWT-based role control  
@@ -61,62 +96,60 @@ A food ordering and delivery platform designed with modular architecture and sec
 ---
 
 ### 📚 E-Book Management System – Java Console App
-A command-line based eBook inventory and management system. Built using core Java concepts to perform CRUD operations on a list of books.
+A command-line based eBook inventory and management system built using core Java.
 
 **Core Features:**
 - Add, view, search, update, and delete eBook records  
 - Menu-driven interface for user-friendly console experience  
 - In-memory storage using Java collections  
-- Ideal for practicing OOP and file-based I/O  
 
 > **Tech Stack:** Java, OOP, Collections, File I/O
 
 ---
 
 ### 🎮 Wordle Gaming Project – Interactive Word Puzzle Game
-A Java-based console implementation of the Wordle game. Users have six chances to guess a 5-letter word with immediate feedback for each guess.
+A Java-based console implementation of the Wordle game.
 
 **Core Features:**
 - Validates input against a dictionary of words  
-- Color-coded (text-based) output indicating correct or misplaced letters  
-- Tracks and displays number of attempts  
-- Clean, modular logic separated into services  
+- Text-based feedback for correct and misplaced letters  
+- Tracks number of attempts  
+- Modular and clean game logic  
 
 > **Tech Stack:** Java, Console I/O, Collections
 
 ---
 
 ### 📊 Credit Card Fraud Detection – Data Science Internship (Corizo)
-Analyzed financial transaction data to uncover spending patterns and potential fraud.
+Analyzed financial transaction data to identify spending patterns and potential fraud.
 
 **Scope of Work:**
-- Data analysis with **R, SQL, and Excel**  
-- Built a baseline **fraud detection model**  
-- Developed interactive dashboards in **Power BI**  
-- Delivered results in Agile sprints with weekly stakeholder reviews  
+- Data analysis using R, SQL, and Excel  
+- Built a baseline fraud detection model  
+- Created dashboards using Power BI  
 
 > **Tech Stack:** R, SQL, Excel, Power BI
 
 ---
 
 ### 🛰 Embedded RFID Exam Hall Navigation System
-Engineered an embedded system to automate exam hall and seat assignments using RFID technology.
+An embedded system designed to automate exam hall and seat assignments using RFID.
 
 **Details:**
-- Programmed microcontroller using Embedded C and AVR  
-- Interfaced with **MAX232 IC** and LCD for real-time seat display  
-- Validated logic in Proteus and deployed successfully in real-world use  
-- Improved exam logistics efficiency by 70%  
+- Embedded C programming on AVR microcontroller  
+- LCD-based real-time seat display  
+- Hardware validation using Proteus  
 
 > **Tech Stack:** Embedded C, AVR, Proteus, LCD, RFID
 
 ---
 
 ## 🎯 Goals
-I’m currently seeking **2025 internships** and **full-time opportunities** in **Software Engineering, Backend Development, and Cloud**. I'm excited to contribute to cutting-edge teams that innovate, solve meaningful problems, and embrace modern engineering practices.
+I am seeking **full-time opportunities** in **Software Engineering, Backend Development, and Cloud Engineering**, where I can contribute to building scalable systems and continue growing as an engineer.
+
+---
 
 ## 📫 Connect with Me
 📧 silpa.alekhya.m@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/silpa-alekhya-malakala-9b162920b/)  
-💻 [GitHub](https://github.com/silpaalekhya)
-
+🔗 Linkedin: https://www.linkedin.com/in/silpa-alekhya-malakala-9b162920b/
+💻 GitHub: https://github.com/silpaalekhya
