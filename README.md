@@ -1,155 +1,107 @@
-# 👋 Hello! I'm Silpa Alekhya Malakala
+## 👩‍💻 About Me
 
-## 🙋‍♀️ About Me
-I am a **Full Stack Software Engineer with 4+ years of experience** delivering enterprise-scale applications across **Banking, Insurance, Telecom, and Mobility domains**. I am currently pursuing a **Master’s degree in Computer Science** at **Fitchburg State University**, where my academic focus includes **advanced programming, algorithms, data science, and system design**.
+```yaml
+name: "Silpa Malakala"
+location: "New York, USA"
+current_role: "Senior Software Engineer @ BNY Mellon"
 
-My professional experience spans building **secure, high-performance backend services**, **microservices architectures**, and **modern frontend applications** using Java, Spring Boot, Angular, React, and cloud-native technologies. I enjoy solving complex engineering problems, improving system reliability, and building scalable solutions used in real-world enterprise environments.
+past:
+  - "Software Engineer @ Mayo Clinic | Apr 2023 - Jan 2025"
+  - "Full Stack Engineer @ Fidelity | Jul 2021 - Mar 2023"
 
----
+focus:
+  - "Designing reliable full stack systems that connect clean UI with strong backend architecture"
+  - "Building Java and Spring Boot microservices that are secure, scalable, and production-ready"
+  - "Working with event-driven systems, cloud deployments, and modern DevOps workflows"
+  - "Turning complex business workflows into simple, usable software"
 
-## 💼 Professional Experience
-I have worked as a **Full Stack / Backend Engineer** across multiple enterprise organizations, contributing to production systems used by millions of users.
+interests:
+  - "Backend Engineering"
+  - "Full Stack Development"
+  - "Cloud-Native Microservices"
+  - "Distributed Systems"
+  - "Event-Driven Architecture"
+  - "System Design"
+  - "DevOps and CI/CD Automation"
+  - "Enterprise Application Modernization"
 
-- Built and maintained **Java (8/11/17) and Spring Boot microservices** with REST APIs, JPA/Hibernate, and event-driven integrations using **Kafka and JMS**  
-- Developed **Angular and React-based UIs** with strong focus on performance, accessibility, and reusable component architecture  
-- Designed and integrated **API Gateway solutions (Apigee)** for secure service communication and enterprise integrations  
-- Implemented **CI/CD pipelines** using Jenkins, GitHub, Maven, and quality gates with SonarQube  
-- Containerized applications using **Docker** and deployed on **Kubernetes / OpenShift**  
-- Supported **L3 production issues**, performed root-cause analysis using Splunk, New Relic, and AppDynamics, and delivered permanent fixes  
-- Worked closely with **product owners, QA, DevOps, and business stakeholders** in Agile/Scrum environments  
-- Mentored junior developers, performed code reviews, and promoted clean code and best practices  
+hobbies:
+  - "Badminton"
+  - "Reading Books"
+  - "Yoga"
+  - "Technical Blogging"
+```
 
----
+```
 
-## 💡 My Passion
-I am passionate about building **robust backend systems**, **scalable microservices**, and **real-time data pipelines**. I enjoy working on challenging problems involving system design, performance optimization, and distributed systems. Continuous learning, clean architecture, and writing maintainable code drive my growth as an engineer.
+## 💼 Career Timeline
 
----
-
-## 🔧 Technical Skills
-
-**Languages & Programming:**  
-Java (8/11/17), C, JavaScript, TypeScript, SQL  
-
-**Frontend Technologies:**  
-Angular, React, HTML5, CSS3, Bootstrap, JSP  
-
-**Backend & Frameworks:**  
-Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, Spring Data JPA  
-
-**APIs & Databases:**  
-REST APIs, OpenAPI, JSON, XML, MySQL, PostgreSQL, Oracle, MongoDB  
-
-**Cloud & DevOps:**  
-AWS, Google Cloud Platform (GCP), Azure, Docker, Kubernetes, OpenShift, Jenkins, Kafka, Terraform  
-
-**Testing & QA:**  
-JUnit, Mockito, Jest, Mocha, Postman  
-
-**Methodologies:**  
-Agile, Scrum, TDD, SDLC  
+| Period | Role | Company |
+|---|---|---|
+| Feb 2025 — Present | Senior Software Engineer | BNY Mellon |
+| Apr 2023 — Jan 2025 | Software Engineer | Mayo Clinic |
+| Jul 2021 — Mar 2023 | Full Stack Engineer | Fidelity |
+| Dec 2019 — Jun 2021 | Jr. Java Developer | Lowe's Companies, Inc. |
+| Aug 2017 — Oct 2019 | Software Engineer | Ibing Software Solutions |
 
 ---
 
-## 🧪 Projects
+## 🛠 Tech Stack
 
-### 🩺 Patient Management System – Microservices Architecture *(In Progress)*
-A production-grade healthcare management platform built with Spring Boot microservices. The application handles patient and billing workflows with secure communication, real-time event streaming, and cloud-ready deployment.
+<details open>
+<summary><b>Frontend</b></summary>
+<br>
 
-**Key Features:**
-- Service-to-service communication via **gRPC** between Patient and Billing services  
-- **Apache Kafka** for asynchronous patient event streaming and analytics processing  
-- API Gateway with centralized routing and **JWT-based authentication**  
-- Containerized microservices using **Docker** and orchestrated with **Kubernetes**  
-- CI/CD pipeline integration with **Jenkins**  
-- Infrastructure provisioning with **AWS CloudFormation** and **LocalStack**  
-- Integration testing for Auth and Patient modules  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-> **Tech Stack:** Java, Spring Boot, gRPC, Kafka, Docker, Kubernetes, Jenkins, AWS, CloudFormation
+</details>
 
----
+<details open>
+<summary><b>Backend & APIs</b></summary>
+<br>
 
-### 🏥 Full Stack Hospital Management System
-A full-stack hospital service platform enabling role-based operations for doctors, patients, and admins.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
 
-**Key Features:**
-- Patient registration, doctor login, and admin management dashboards  
-- Appointment scheduling, medical records tracking, and discharge summaries  
-- JWT-based login authentication and REST API integration  
-- Modern responsive UI with Angular and Bootstrap  
+</details>
 
-> **Tech Stack:** Angular, Spring Boot, MySQL, JWT, REST API, Docker
+<details open>
+<summary><b>Databases</b></summary>
+<br>
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
-### 🍱 Food Delivery System – Full Stack Application
-A food ordering and delivery platform designed with modular architecture and secure authentication.
+</details>
 
-**Key Features:**
-- Customer and Admin login with JWT-based role control  
-- Product management module for restaurant owners  
-- Order and payment tracking system  
-- Frontend validation and backend API integration  
+<details open>
+<summary><b>Cloud, Messaging & DevOps</b></summary>
+<br>
 
-> **Tech Stack:** Angular, Spring Boot, MySQL, JWT, Docker
+![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![IBM MQ](https://img.shields.io/badge/IBM_MQ-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+</details>
 
-### 📚 E-Book Management System – Java Console App
-A command-line based eBook inventory and management system built using core Java.
-
-**Core Features:**
-- Add, view, search, update, and delete eBook records  
-- Menu-driven interface for user-friendly console experience  
-- In-memory storage using Java collections  
-
-> **Tech Stack:** Java, OOP, Collections, File I/O
-
----
-
-### 🎮 Wordle Gaming Project – Interactive Word Puzzle Game
-A Java-based console implementation of the Wordle game.
-
-**Core Features:**
-- Validates input against a dictionary of words  
-- Text-based feedback for correct and misplaced letters  
-- Tracks number of attempts  
-- Modular and clean game logic  
-
-> **Tech Stack:** Java, Console I/O, Collections
-
----
-
-### 📊 Credit Card Fraud Detection – Data Science Internship (Corizo)
-Analyzed financial transaction data to identify spending patterns and potential fraud.
-
-**Scope of Work:**
-- Data analysis using R, SQL, and Excel  
-- Built a baseline fraud detection model  
-- Created dashboards using Power BI  
-
-> **Tech Stack:** R, SQL, Excel, Power BI
-
----
-
-### 🛰 Embedded RFID Exam Hall Navigation System
-An embedded system designed to automate exam hall and seat assignments using RFID.
-
-**Details:**
-- Embedded C programming on AVR microcontroller  
-- LCD-based real-time seat display  
-- Hardware validation using Proteus  
-
-> **Tech Stack:** Embedded C, AVR, Proteus, LCD, RFID
-
----
-
-## 🎯 Goals
-I am seeking **full-time opportunities** in **Software Engineering, Backend Development, and Cloud Engineering**, where I can contribute to building scalable systems and continue growing as an engineer.
-
----
-
-## 📫 Connect with Me
-📧 silpa.alekhya.m@gmail.com  
-🔗 Linkedin: https://www.linkedin.com/in/silpa-alekhya-malakala-9b162920b/
-💻 GitHub: https://github.com/silpaalekhya
